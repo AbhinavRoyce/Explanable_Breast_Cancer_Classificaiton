@@ -1,0 +1,3 @@
+Experiment,Number_of_features,Accuracy,Precision_malignant,Recall_malignant,F1_malignant,ROC_AUC
+Logistic Regression with all 30 features,30,0.9649122807017544,0.975,0.9285714285714286,0.9512195121951219,0.996031746031746
+Logistic Regression with top 10 ANOVA features,10,0.956140350877193,0.9743589743589743,0.9047619047619048,0.9382716049382716,0.9973544973544974
