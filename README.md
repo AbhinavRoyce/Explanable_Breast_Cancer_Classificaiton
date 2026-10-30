@@ -1,5 +1,6 @@
 # Explainable Breast Cancer Classification Using Machine Learning
-
+## Output Screenshot
+![alt text](image.png)
 ## Project summary
 This project compares seven classical ML classifiers on the Wisconsin Diagnostic Breast Cancer dataset and tests whether feature selection can reduce the number of features while retaining useful predictive performance.
 
